@@ -15,7 +15,7 @@
 {"id": "18157", "name": "Sayali Thakur","age": "23", "dept": "Comp Sci", "subject": ["Software Devlopement-II","DevOps"]}
 
 ### FOR UPDATION OF DATA SEND JSON FORMAT AS BELOW===> UPDATE METHOD
-{"id": "existing id", "name": "WantToUpdate","age": "WantToUpdate", "dept": "WantToupdate", "subject": ["Software Devlopement","DevOps","WantToUpdate"]}
+{"id": "existing id", "name": "WantToUpdate","age": "WantToUpdate", "dept": "WantToupdate", "subject": ["Software Devlopement-II","DevOps","WantToUpdate"]}
 
 WantToUpdate => is new values which you want to update.
 
