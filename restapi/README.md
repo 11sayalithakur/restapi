@@ -1,4 +1,4 @@
-# This is a students restapi built using golang as backend and mysql(mariadb) as database.
+# This is a students restapi built using golang as backend and mysql as database.
 
 ## APIs
 
